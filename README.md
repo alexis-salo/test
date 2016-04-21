@@ -1,4 +1,2 @@
 # test
-
-re test laoala
-esto resulevo todo
+esto soluciona el probema
